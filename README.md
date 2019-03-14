@@ -18,6 +18,7 @@ kick : kicks the user that is mentioned after the kick command
 
 purge : deletes the last 100 messages
 
+rand : picks a random user
 
 
 
