@@ -12,7 +12,7 @@ respek : gives an f in chat for whatever comes next
 
 say : deletes the pre-processor line, and repeats anything after the ;say
 
-porn : gives pornhub recomendations (Under development)
+image : gives an image
 
 kick : kicks the user that is mentioned after the kick command
 
