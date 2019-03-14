@@ -1,5 +1,7 @@
 # Trevor by: zmahomed
 
+#### Main
+
 ###### ; is the pre-processor
 
 
@@ -20,6 +22,6 @@ purge : deletes the last 100 messages
 
 
 
-###### Auto-functionality
+#### Auto-functionality
 
-Auto deletes any command for ayana and calls her a B*
+###### Auto deletes any command for ayana and calls her a B*
