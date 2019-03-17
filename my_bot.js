@@ -73,8 +73,6 @@ function processCommand(receivedMessage) {
         shaunCommand(arguments, receivedMessage)
     } else if (primaryCommand == "mike")  {
         mikeCommand(arguments, receivedMessage)
-    } else if (primaryCommand == "porn") {
-        pornCommand(arguments, receivedMessage)
     } else if (primaryCommand == "f") {
         repekCommand(arguments, receivedMessage)
     } else if (primaryCommand == "say") {
@@ -101,10 +99,6 @@ function repekCommand(arguments, receivedMessage) {
     } else {
         receivedMessage.channel.send("PAY RESPEK TO WHO PLEB?")
     }
-}
-
-function pornCommand(arguments, receivedMessage) {
-        receivedMessage.channel.send("https://www.pornhub.com/categories/hentai")
 }
 
 function mikeCommand(arguments, receivedMessage) {
